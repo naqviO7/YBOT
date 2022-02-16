@@ -1,0 +1,2 @@
+pyfiglet==0.8.post1
+selenium==4.1.0
