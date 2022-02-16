@@ -1,6 +1,7 @@
 # YBOT
 Python Bot/Script to Automate Views on Youtube Videos.
-B0T MADE FOR WINDOWS OS.
+B0T MADE FOR WINDOWS OS.\
+`IT IS JUST AN IMPLEMENTATION OF MY LEARNING!`
 
 # Source Code:
 ![carbon](https://user-images.githubusercontent.com/79792270/154214225-129fa93e-86a5-499a-97f5-befee056fa7c.png)
