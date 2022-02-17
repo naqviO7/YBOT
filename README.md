@@ -1,6 +1,6 @@
 # YBOT
 Python Bot/Script to Automate Views on Youtube Videos.
-B0T MADE FOR WINDOWS OS.\
+B0T MADE FOR WINDOWS.\
 `IT IS JUST AN IMPLEMENTATION OF MY LEARNING!`
 
 # Source Code:
@@ -8,8 +8,7 @@ B0T MADE FOR WINDOWS OS.\
 
 # How To Use:
 1. Get Code using command: `git clone https://github.com/naqviO7/YBOT.git`
-2. Place `ybot.py` and `chromedriver` in Same Folder.
-3. Run using Command: `python3 ybot.py` 
-4. Make Exe File using: `pyinstaller ybot.py --onefile`
-
-# [!] USE IT ON YOUR OWN RISK [!]
+2. Install Requirements using Command: `pip install -r requirements.txt`
+3. Place `ybot.py` and `chromedriver` in Same Folder.
+4. Run using Command: `python3 ybot.py` 
+5. Make Exe File using: `pyinstaller ybot.py --onefile`
